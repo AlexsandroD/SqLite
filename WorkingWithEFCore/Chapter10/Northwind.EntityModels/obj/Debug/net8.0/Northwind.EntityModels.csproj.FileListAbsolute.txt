@@ -1,0 +1,12 @@
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\bin\Debug\net8.0\Northwind.EntityModels.deps.json
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\bin\Debug\net8.0\Northwind.EntityModels.dll
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\bin\Debug\net8.0\Northwind.EntityModels.pdb
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\Northwind.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\Northwind.EntityModels.AssemblyInfoInputs.cache
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\Northwind.EntityModels.AssemblyInfo.cs
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\Northwind.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\Northwind.EntityModels.sourcelink.json
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\Northwind.EntityModels.dll
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\refint\Northwind.EntityModels.dll
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\Northwind.EntityModels.pdb
+C:\Users\adero\Desktop\SqLite\WorkingWithEFCore\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\ref\Northwind.EntityModels.dll
